@@ -3,4 +3,4 @@
 
 Repositório criado para ver como funciona o PUSH
 
-Alteração feita para testa o PULL
+Alteração feita para testar o PULL
